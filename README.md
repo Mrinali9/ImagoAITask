@@ -19,5 +19,4 @@
 # 📌 Step 2: Download Dataset
 > Make sure TASK-ML-INTERN.csv is available in the same directory as your script.
 
-○	Brief overview of the repository structure: 
 
