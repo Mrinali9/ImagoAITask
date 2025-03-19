@@ -13,6 +13,7 @@
 - spektral → Graph Neural Networks
 
 > pip install jupyter notebook
+
 > pip install numpy pandas matplotlib seaborn scikit-learn scipy tensorflow spektral
 
 # 📌 Step 2: Download Dataset
